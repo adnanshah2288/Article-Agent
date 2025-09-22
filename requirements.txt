@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+python-dotenv
+mysql-connector-python
+langchain
+langchain-experimental
+langchain-groq
